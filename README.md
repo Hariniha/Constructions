@@ -1,5 +1,11 @@
 # Naavi Construction
 
+## Features
+- **Dynamic Portfolio**: Filterable project gallery.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop.
+- **Modern UI**: Clean typography and charcoal-based corporate color palette.
+- **Contact Integration**: Custom project inquiry form.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
