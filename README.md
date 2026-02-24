@@ -6,6 +6,12 @@
 - **Modern UI**: Clean typography and charcoal-based corporate color palette.
 - **Contact Integration**: Custom project inquiry form.
 
+## Tech Stack
+- **Framework**: Next.js (App Router)
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Custom SVG icons
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
