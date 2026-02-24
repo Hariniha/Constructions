@@ -12,6 +12,13 @@
 - **Animations**: Framer Motion
 - **Icons**: Custom SVG icons
 
+## Directory Structure
+- `src/app`: Page routes and global layouts.
+- `src/components/layout`: Global navigation and footer.
+- `src/components/sections`: Reusable page sections.
+- `src/lib`: Shared utility functions.
+- `public`: Static assets and icons.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
